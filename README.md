@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Software Development ,Data Science ,Machine Learning 
 - 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email- avneeshupadhyay63@gmial.com 
+- 📫 How to reach me Email- avneeshupadhyay63@gmail.com 
 
 <!---
 Avneesh-Upadhyay/Avneesh-Upadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
